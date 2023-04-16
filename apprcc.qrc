@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>icon/insert_1.ico</file>
+    <file>icon/insert_page.ico</file>
+    <file>icon/import.ico</file>
+    <file>icon/delete.ico</file>
+    <file>icon/DM_20230331154031_001.ico</file>
+    <file>icon/down.ico</file>
+    <file>icon/pdf.ico</file>
+    <file>icon/start.png</file>
+    <file>icon/up.ico</file>
+    <file>icon/unlock.ico</file>
+    <file>icon/even-odd.ico</file>
+    <file>icon/extract.ico</file>
+    <file>icon/merge.ico</file>
+    <file>icon/merged.ico</file>
+    <file>icon/unlock.ico</file>
+    <file>icon/conversion.ico</file>
+    <file>icon/convert.ico</file>
+    <file>icon/removal.ico</file>
+    <file>icon/remove.ico</file>
+    <file>icon/reverse.ico</file>
+    <file>icon/reversed.ico</file>
+    <file>icon/remove.ico</file>
+    <file>icon/two.ico</file>
+  </qresource>
+</RCC>
